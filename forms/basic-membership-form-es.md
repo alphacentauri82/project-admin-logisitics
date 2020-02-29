@@ -40,4 +40,5 @@ Este formulario también está disponible en otros idiomas:
              Opciones: sí, no
 
 ## Autorización para compartir información
-    Doy mi consentimiento para compartir mi nombre, correo electrónico y los datos anteriores con PyLadies. El consentimiento para compartir esta información permite que PyLadies le envíe correos electrónicos ocasionales, compartiendo mi información con los organizadores oficiales del Capítulo PyLadies con el que estoy afiliado, el liderazgo global de PyLadies y la Python Software Foundation.
+        
+        Doy mi consentimiento para compartir mi nombre, correo electrónico y los datos anteriores con PyLadies. El consentimiento para compartir esta información permite que PyLadies le envíe correos electrónicos ocasionales, compartiendo mi información con los organizadores oficiales del Capítulo PyLadies con el que estoy afiliado, el liderazgo global de PyLadies y la Python Software Foundation.
